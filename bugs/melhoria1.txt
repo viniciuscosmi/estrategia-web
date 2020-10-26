@@ -1,0 +1,8 @@
+Campo cidade e estado nao sao possiveis ser alterados
+
+Caminho para a tela:
+
+Tela Principal > Minha conta > Cadastre-se agora > Preencher os dados 'Sou novo cliente, quero me cadastrar' e continuar > 
+campos cidade e estado desabilitados 
+
+Os campos cidade e estado sao desabilitados para preenchimento, sendo possivel altera-los apenas preenchendo o campo CEP

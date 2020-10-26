@@ -1,0 +1,9 @@
+Campo de data de nascimento no cadastro nao possui validacao de data mínima
+
+Caminho para a tela:
+
+Tela Principal > Minha conta > Cadastre-se agora > Preencher os dados 'Sou novo cliente, quero me cadastrar' e continuar > 
+preencher o campo de data de nascimento com ano 2020
+
+O campo de data de nascimento nao esta com nenhuma validacao de data minima (18 anos por exemplo), que deveria ser uma idade minima
+para realizacao do cadastro.

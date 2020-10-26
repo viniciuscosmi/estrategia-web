@@ -1,0 +1,9 @@
+Busca de curso mantem valor apos retornar a pagina anterior
+
+Caminho para a tela:
+
+Tela Principal > Menu Por Professor > selecionar algum professor (Ena Loiola por exemplo) > 
+  Colocar um valor no filtro de busca > clicar no curso filtrado > Voltar para a tela de listagem de cursos
+
+Realizando o caminho a cima, notamos que, na tela de listagem de cursos, o valor inserido anteriormente permanece no campo, 
+porem, sem estar filtrando, sendo necessario apagar e colocar a mesma busca ou uma nova

@@ -1,0 +1,9 @@
+Campo número do endereco aceita letras
+
+Caminho para a tela:
+
+Tela Principal > Minha conta > Cadastre-se agora > Preencher os dados 'Sou novo cliente, quero me cadastrar' e continuar > 
+inserir letras no campo numero
+
+O campo 'numero' relativo ao endereco no cadastro, está aceitando o preenchimento com letras, podem causar problemas no cadastro
+dos usuarios e/ou inconsistencia de dados na base e código da aplicacao.

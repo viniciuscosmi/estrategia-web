@@ -1,0 +1,7 @@
+Ordenacao de cursos está incorreta
+
+Caminho para a tela:
+
+Tela Principal > Menu Por Professor > selecionar algum professor (Ena Loiola por exemplo) > Clicar no botao "nome" 2 vezes para ordenar
+
+A ordenacao dos cursos está incorreta, ele considera apenas a ordem alfabetica, desconsiderando o Case Sensitive (Caixa Alta)

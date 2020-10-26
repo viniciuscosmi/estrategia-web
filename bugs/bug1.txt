@@ -1,0 +1,5 @@
+Icone do mouse desaparace ao passar por cima do icone de filtrar na lista de cursos por professor
+
+Caminho para a tela:
+
+Tela Principal > Menu Por Professor > selecionar algum professor (Ena Loiola por exemplo)
